@@ -1,16 +1,5 @@
 # flutter_pomodoro
 
-A new Flutter project.
+Um cronômetro pomodoro utilizando MobX em Flutter, permite você configurar quanto tempo de trabalho você quer e quantas horas de descanso. Hora de Trabalhar tem o background vermelho, e Hora de Descanso tem o background Verde
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2022-09-01 at 16 55 07](https://user-images.githubusercontent.com/106937639/188002530-a63271cd-3c94-4f94-bfbe-714ffff9bc07.jpeg)
