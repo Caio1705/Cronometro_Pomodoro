@@ -1,4 +1,4 @@
-# flutter_pomodoro
+# Flutter Cronômetro Pomodoro
 
 Um cronômetro pomodoro utilizando MobX em Flutter, permite você configurar quanto tempo de trabalho você quer e quantas horas de descanso. Hora de Trabalhar tem o background vermelho, e Hora de Descanso tem o background Verde
 
